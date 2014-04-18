@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Assets\Scripts\FPSPlyerSync.cs">
+    <Files>
+      <File FileName="Assets\My Assets\Scripts\WeaponDrop.cs" Line="28" Column="4" />
+      <File FileName="Assets\My Assets\Scripts\TrustManager.cs" Line="447" Column="39" />
+      <File FileName="Assets\My Assets\Scripts\FPSPlyerSync.cs" Line="253" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
